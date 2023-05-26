@@ -1,0 +1,5 @@
+numpy
+pandas
+Flask
+-e . 
+# this -e . is used to link requirements.txt to setup.py
